@@ -1,0 +1,1 @@
+title dipole vectors images processing authors amelia sparavigna abstract instead evaluating gradient field brightness map image propose use dipole vectors approach obtained adapting image gray tone distribution definition dipole moment charge distributions show evaluate dipoles obtain vector field good alternative gradient field pattern recognition

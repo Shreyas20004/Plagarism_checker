@@ -1,0 +1,1 @@
+title riemannian level set methods tensor valued data authors mourad zerai maher moakher abstract present novel approach derivation pde modeling curvature driven flows matrix valued data approach based riemannian geometry manifold symmetric positive definite matrices pos n

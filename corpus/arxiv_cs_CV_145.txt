@@ -1,0 +1,1 @@
+title motion segmentation scc hopkins database authors g chen g lerman abstract apply spectral curvature clustering scc algorithm benchmark database motion sequences show outperforms state art methods average misclassification rate scc sequences two motions three motions

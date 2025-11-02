@@ -1,0 +1,1 @@
+title introduction conll shared task chunking authors erik f tjong kim sang sabine buchholz abstract describe conll shared task dividing text syntactically related non overlapping groups words called text chunking give background information data sets present general overview systems taken part shared task briefly discuss performance

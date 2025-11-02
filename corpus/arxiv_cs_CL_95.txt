@@ -1,0 +1,1 @@
+title approximation exactness finite state optimality theory authors dale gerdemann gertjan van noord abstract previous work frank satta karttunen shown optimality theory gradient constraints generally finite state new finite state treatment gradient constraints presented improves upon approximation karttunen method turns exact compact syllabification analysis prince smolensky

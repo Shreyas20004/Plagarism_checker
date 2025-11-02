@@ -1,0 +1,1 @@
+title broy lamport specification problem gurevich abstract state machine solution authors james k huggins abstract apply gurevich abstract state machine methodology benchmark specification problem broy lamport

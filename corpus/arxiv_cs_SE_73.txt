@@ -1,0 +1,1 @@
+title automated fault localization using potential invariants authors brock pytlik manos renieris shriram krishnamurthi steven p reiss abstract present general method fault localization based abstracting program traces tool implements method using ernst notion potential invariants experiments far unsatisfactory suggesting research needed invariants used locate faults

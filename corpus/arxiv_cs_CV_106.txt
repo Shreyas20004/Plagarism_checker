@@ -1,0 +1,1 @@
+title obtaining depth maps color images region based stereo matching algorithms authors b baykant alagoz abstract paper region based stereo matching algorithms developed extraction depth information two color stereo image pair filter eliminating unreliable disparity estimation used increasing reliability disparity map obtained results algorithms represented compared

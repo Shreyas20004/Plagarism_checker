@@ -1,0 +1,1 @@
+title escaping curse dimensionality tree based regressor authors samory kpotufe abstract present first tree based regressor whose convergence rate depends intrinsic dimension data namely assouad dimension regressor uses rptree partitioning procedure simple randomized variant k trees

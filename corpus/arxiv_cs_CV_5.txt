@@ -1,0 +1,1 @@
+title differential invariants gamma correction authors andreas siebert abstract paper presents invariants gamma correction similarity transformations invariants local features based differentials implemented using derivatives gaussian use proposed invariant representation shown yield improved correlation results template matching scenario

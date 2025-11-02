@@ -1,0 +1,1 @@
+title lasso type classifiers reject option authors marten wegkamp abstract consider problem binary classification one particular cost choose classify observation present simple proof oracle inequality excess risk structural risk minimizers using lasso type penalty

@@ -1,0 +1,1 @@
+title prediction expert advice brier game authors vladimir vovk fedor zhdanov abstract show brier game prediction mixable find optimal learning rate substitution function resulting prediction algorithm applied predict results football tennis matches theoretical performance guarantee turns rather tight data sets especially case extensive tennis data

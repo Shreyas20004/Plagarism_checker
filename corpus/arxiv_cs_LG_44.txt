@@ -1,0 +1,1 @@
+title competing markov prediction strategies authors vladimir vovk abstract assuming loss function convex prediction construct prediction strategy universal class markov prediction strategies necessarily continuous allowing randomization remove requirement convexity

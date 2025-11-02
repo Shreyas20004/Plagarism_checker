@@ -1,0 +1,1 @@
+title essence constraint propagation authors krzysztof r apt abstract show several constraint propagation algorithms also called local consistency consistency enforcing waltz filtering narrowing algorithms instances algorithms deal chaotic iteration end propose simple abstract framework allows us classify compare algorithms establish uniform way basic properties

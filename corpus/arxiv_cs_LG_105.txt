@@ -1,0 +1,1 @@
+title extraction de concepts sous contraintes dans des donn es expression de g nes authors baptiste jeudy fran ois rioult abstract paper propose technique extract constrained formal concepts

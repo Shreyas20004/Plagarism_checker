@@ -1,0 +1,1 @@
+title p adic classification authors patrick erik bradley abstract p adic modification split lbg classification method presented first clusterings cluster centers computed locally minimise energy function outcome fixed dataset independent prime number p finitely many exceptions methods applied construction p adic classifiers context learning

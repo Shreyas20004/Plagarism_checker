@@ -1,0 +1,1 @@
+title dipole quadrupole moments image processing authors amelia sparavigna abstract paper proposes algorithm image processing obtained adapting image maps definitions two well known physical quantities quantities dipole quadrupole moments charge distribution see possible define dipole quadrupole moments gray tone maps apply development algorithms edge detection

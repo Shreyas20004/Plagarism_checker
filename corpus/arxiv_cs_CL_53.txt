@@ -1,0 +1,1 @@
+title question answering system using syntactic information authors murata utiyama h isahara abstract question answering task done trec using english documents examined question answering task japanese sentences method selects answer matching question sentence knowledge based data written natural language use syntactic information obtain highly accurate answers

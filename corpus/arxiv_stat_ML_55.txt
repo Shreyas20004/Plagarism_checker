@@ -1,0 +1,1 @@
+title convex multiview fisher discriminant analysis authors tom diethe john shawe taylor abstract section incorrect removed submissions rewritten version posted future

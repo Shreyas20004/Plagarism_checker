@@ -1,0 +1,1 @@
+title linear shift invariant multiscale transform authors andreas siebert abstract paper presents multiscale decomposition algorithm unlike standard wavelet transforms proposed operator linear shift invariant central idea obtain shift invariance averaging aligned wavelet transform projections circular shifts signal shown transform obtained linear filter bank

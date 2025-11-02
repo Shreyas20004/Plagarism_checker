@@ -1,0 +1,1 @@
+title non negative expansion small jensen shannon divergences authors anil raj chris h wiggins abstract report derive non negative series expansion jensen shannon divergence jsd two probability distributions series expansion shown useful numerical calculations jsd probability distributions nearly equal consequently small numerical errors dominate evaluation

@@ -1,0 +1,1 @@
+title general theory image normalization authors stephen l adler abstract give systematic abstract formulation image normalization method applied general group image transformations illustrate abstract analysis applying hierarchy viewing transformations planar object

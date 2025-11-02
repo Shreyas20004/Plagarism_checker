@@ -1,0 +1,1 @@
+title equivalence eye beholder authors yuri gurevich james k huggins abstract recent provocative paper lamport points insubstantiality processes proving equivalence two different decompositions intuitive algorithm means temporal formulas point correct equivalence algorithms eye beholder discuss number related issues particular whether algorithms proved equivalent directly

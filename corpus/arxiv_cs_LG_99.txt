@@ -1,0 +1,1 @@
+title binary classification based potentials authors erik boczko andrew dilullo todd young abstract introduce simple computationally trivial method binary classification based evaluation potential functions demonstrate despite conceptual computational simplicity method performance match exceed standard support vector machine methods
