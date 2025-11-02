@@ -62,7 +62,7 @@ cp wiki/*.md Plagarism_checker.wiki/
 cd Plagarism_checker.wiki/
 git add .
 git commit -m "Add comprehensive project documentation"
-git push origin main
+git push origin master
 ```
 
 ### Wiki Page Naming Convention
