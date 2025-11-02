@@ -5,9 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
-# custom additions
+
+# Project specific
+plagiarism.db
+plagiarism.db-journal
 reports/
 uploads/
+corpus/
+.streamlit/secrets.toml
+*.pdf
+*.html
 
 # Distribution / packaging
 .Python
