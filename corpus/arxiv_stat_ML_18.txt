@@ -1,1 +1,0 @@
-title random projection trees vector quantization authors sanjoy dasgupta yoav freund abstract simple computationally efficient scheme tree structured vector quantization presented unlike previous methods quantization error depends intrinsic dimension data distribution rather apparent dimension space data happen lie

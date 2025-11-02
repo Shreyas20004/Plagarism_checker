@@ -1,1 +1,0 @@
-title dataflow system atlas trigger daq authors g lehmann abstract baseline design implementation dataflow system documented atlas daq hlt technical design report summer presented empahsis placed system performance scalability based results prototyping studies maximised use commercially available hardware

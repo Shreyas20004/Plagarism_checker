@@ -1,1 +1,0 @@
-title defeasible reasoning oscar authors john l pollock abstract system description oscar defeasible reasoner

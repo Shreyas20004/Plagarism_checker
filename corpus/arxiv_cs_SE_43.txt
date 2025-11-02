@@ -1,1 +1,0 @@
-title architecture making object oriented systems available prolog authors jan wielemaker anjo anjewierden abstract next impossible develop real life applications pure prolog xpce realised mechanism integrating prolog external object oriented system turns oo system natural extension prolog describe design applied external oo systems

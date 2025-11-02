@@ -1,1 +1,0 @@
-title advances domain independent linear text segmentation authors freddy choi abstract paper describes method linear text segmentation twice accurate seven times fast state art reynar inter sentence similarity replaced rank local context boundary locations discovered divisive clustering

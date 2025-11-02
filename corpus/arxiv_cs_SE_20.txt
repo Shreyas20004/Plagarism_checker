@@ -1,1 +1,0 @@
-title assessing complexity software architectures authors jianjun zhao abstract paper proposes new architectural metrics appropriate evaluating architectural attributes software system main feature approach assess complexity software architecture analyzing various types architectural dependences architecture

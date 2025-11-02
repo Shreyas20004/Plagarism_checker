@@ -1,1 +1,0 @@
-title visualization manifold valued elements multidimensional scaling authors simone fiori abstract present contribution suggests use multidimensional scaling mds algorithm visualization tool manifold valued elements visualization tool kind useful signal processing machine learning whenever learning adaptation algorithms insist high dimensional parameter manifolds

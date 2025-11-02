@@ -1,1 +1,0 @@
-title parallel algorithm dilated contour extraction bilevel images authors b r schlei l prasad abstract describe simple efficient algorithm generation dilated contours bilevel images initial part contour extraction explained good candidate parallel computer code generation remainder algorithm linear nature

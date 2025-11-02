@@ -1,1 +1,0 @@
-title probabilistic coherence proper scoring rules authors joel predd robert seiringer elliott h lieb daniel osherson vincent poor sanjeev kulkarni abstract provide self contained proof theorem relating probabilistic coherence forecasts non domination rival forecasts respect proper scoring rule theorem appears new closely related results achieved investigators

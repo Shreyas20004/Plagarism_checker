@@ -1,1 +1,0 @@
-title applying gsat non clausal formulas authors r sebastiani abstract paper describe modify gsat applied non clausal formulas idea use particular score function gives number clauses cnf conversion formula false given truth assignment value computed linear time without constructing cnf conversion proposed methodology applies variants gsat proposed far

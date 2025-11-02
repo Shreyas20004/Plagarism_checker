@@ -1,1 +1,0 @@
-title optimal assignment kernel positive definite authors jean philippe vert abstract prove optimal assignment kernel proposed recently attempt embed labeled graphs generally tuples basic data hilbert space fact always positive definite

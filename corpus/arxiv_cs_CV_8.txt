@@ -1,1 +1,0 @@
-title boosting differences fast bayesian classifier neural network authors ninan sajeeth philip k babu joseph abstract bayesian classifier weights differences attribute values discussed using four popular datasets uci repository interesting features network illustrated network suitable classification problems

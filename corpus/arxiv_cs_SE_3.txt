@@ -1,1 +1,0 @@
-title offline partial evaluator evolving algebras authors james k huggins abstract describe architecture evolving algebra partial evaluator program specializes evolving algebra respect portion input discuss particular analysis specialization optimization techniques used show example use
