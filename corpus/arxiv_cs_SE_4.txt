@@ -1,1 +1,0 @@
-title railroad crossing problem experiment instantaneous actions immediate reactions authors yuri gurevich james k huggins abstract give evolving algebra solution well known railroad crossing problem use occasion experiment agents perform instantaneous actions continuous time particular agents fire moment enabled

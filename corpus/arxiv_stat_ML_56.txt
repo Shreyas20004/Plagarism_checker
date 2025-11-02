@@ -1,1 +1,0 @@
-title relative expected improvement kriging based optimization authors ukasz aniewski wo k abstract propose extension concept expected improvement criterion commonly used kriging based optimization extend complex kriging models e g models using derivatives target field application cfd problems objective function extremely expensive evaluate theory also used fields

@@ -1,1 +1,0 @@
-title differential invariant zooming authors andreas siebert abstract paper presents invariant scaling linear brightness change invariant based differentials therefore local feature rotationally invariant differential gaussian operators third order proposed implementation invariant performance analyzed simulating camera zoom

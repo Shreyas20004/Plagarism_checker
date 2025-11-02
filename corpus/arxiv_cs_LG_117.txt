@@ -1,1 +1,0 @@
-title introduction machine learning class notes authors amnon shashua abstract introduction machine learning covering statistical inference bayes em ml maxent duality algebraic spectral methods pca lda cca clustering pac learning formal model vc dimension double sampling theorem

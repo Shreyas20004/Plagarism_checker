@@ -1,1 +1,0 @@
-title competing gaussian linear experts authors fedor zhdanov vladimir vovk abstract study problem online regression prove theoretical bound square loss ridge regression make assumptions input vectors outcomes also show bayesian ridge regression thought online algorithm competing gaussian linear experts

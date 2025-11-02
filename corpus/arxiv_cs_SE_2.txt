@@ -1,1 +1,0 @@
-title evolving algebras partial evaluation authors yuri gurevich james k huggins abstract describe automated partial evaluator evolving algebras implemented university michigan

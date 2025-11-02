@@ -1,1 +1,0 @@
-title deductive object programming authors francois colonna abstract propose slight additions languages implement necessary features using deductive object programming dop way programming based upon manipulation production tree objects interest result making persistent objects sensibly lowering code complexity

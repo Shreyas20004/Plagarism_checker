@@ -1,1 +1,0 @@
-title unified example based lexicalist approach machine translation authors davide turcato paul mcfetridge fred popowich janine toole abstract present approach machine translation combines ideas methodologies example based lexicalist theoretical frameworks approach implemented multilingual machine translation system
