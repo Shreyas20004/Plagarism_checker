@@ -36,13 +36,13 @@ Then open your browser to `http://localhost:8501`
 
 ### Quick Links
 
-- **[🏠 Home](wiki/Home.md)** - Overview and introduction
+- **[🏠 Home](https://github.com/Shreyas20004/Plagarism_checker/wiki/Home.md)** - Overview and introduction
 - **[💾 Installation Guide](wiki/Installation.md)** - Detailed setup instructions
-- **[🚀 Usage Guide](wiki/Usage.md)** - How to use the plagiarism checker
-- **[📖 Building Corpus](wiki/Building-Corpus.md)** - Create your reference database
-- **[🔧 API Reference](wiki/API-Reference.md)** - Technical documentation
-- **[🏗️ Architecture](wiki/Architecture.md)** - System design details
-- **[❓ FAQ](wiki/FAQ.md)** - Common questions and troubleshooting
+- **[🚀 Usage Guide](https://github.com/Shreyas20004/Plagarism_checker/wiki/Usage.md)** - How to use the plagiarism checker
+- **[📖 Building Corpus](https://github.com/Shreyas20004/Plagarism_checker/wiki/Building-Corpus.md)** - Create your reference database
+- **[🔧 API Reference](https://github.com/Shreyas20004/Plagarism_checker/wiki/API-Reference.md)** - Technical documentation
+- **[🏗️ Architecture](https://github.com/Shreyas20004/Plagarism_checker/wiki/Architecture.md)** - System design details
+- **[❓ FAQ](https://github.com/Shreyas20004/Plagarism_checker/wiki/FAQ.md)** - Common questions and troubleshooting
 
 ## 🎯 How It Works
 
@@ -91,7 +91,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-See the [Installation Guide](wiki/Installation.md) for detailed instructions and troubleshooting.
+See the [Installation Guide](https://github.com/Shreyas20004/Plagarism_checker/wiki/Installation.md) for detailed instructions and troubleshooting.
 
 ## 📚 Building a Corpus
 
@@ -113,7 +113,7 @@ python build_research_corpus.py
 2. Place them in the `corpus/` directory
 3. Run the plagiarism check
 
-See [Building Corpus Guide](wiki/Building-Corpus.md) for more details.
+See [Building Corpus Guide](https://github.com/Shreyas20004/Plagarism_checker/wiki/Building-Corpus.md) for more details.
 
 ## 🎓 Use Cases
 
@@ -160,7 +160,7 @@ This project is open source and available for educational and research purposes.
 ## 🆘 Getting Help
 
 - **Documentation:** Check the [Wiki](https://github.com/Shreyas20004/Plagarism_checker/wiki)
-- **FAQ:** See [Frequently Asked Questions](wiki/FAQ.md)
+- **FAQ:** See [Frequently Asked Questions](https://github.com/Shreyas20004/Plagarism_checker/wiki/FAQ.md)
 - **Issues:** Report bugs on [GitHub Issues](https://github.com/Shreyas20004/Plagarism_checker/issues)
 
 ## 🗺️ Roadmap
